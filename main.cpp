@@ -15,7 +15,7 @@ int main(){
     /**/printf("                |___/                              \n\n");    /**/
     /**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/
 
-    //list table
+    //table of numbers
     for(int numMax=1,c=1;c<=6;c++){
         for(int l=1;l<=10;l++){
         printf("%02d ",numMax);
