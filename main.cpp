@@ -62,7 +62,11 @@ int main(){
             iHits++;
             }
         }
-    }cout << "\nhits "<<iHits<<"\n";
+    }cout << "\nhits "<<iHits<<"\n\nType[1] to exit\n";
+
+    do{
+    cin>>iNum[0];
+    }while(iNum[0] != 1);
 
     return 0;
 }
