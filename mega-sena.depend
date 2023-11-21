@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699749095 source:c:\users\admin\documents\meujogo\mega-sena\main.cpp
+	<iostream>
+	<time.h>
+
